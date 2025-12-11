@@ -34,11 +34,31 @@ Salida principal:
 - Los slugs se generan en minúsculas, sin tildes ni caracteres especiales.
 - Si una entrada sólo tiene audio (sin PDF), se registrará igualmente en el índice sin campo `pdf`.
 
+## 📚 Referencia
+- Por favor, cita este script usando la siguiente referencia:
+```
+@misc{scraper_alia_amics_2025,
+  author       = {Garc\'ia Cerd\'a, Ra\'ul and Mu{\~n}oz Guillena, Rafael and Consuegra-Ayala, Juan Pablo},
+  title        = {DICTACTS_GVA scraper}, 
+  year         = {2025},
+  institution  = {Language and Information Systems Group (GPLSI) and Centro de Inteligencia Digital (CENID), University of Alicante (UA)},
+  howpublished = {\url(https://github.com/gplsi/scraper-dictacts-gva/)}
+}
+```
+
 ## 💰 Financiación
 Este trabajo está financiado por el Ministerio para la Transformación Digital y de la Función Pública, cofinanciado por la UE - NextGenerationEU, en el marco del proyecto Desarrollo de Modelos ALIA.
 
 ## 🙏 Agradecimientos
-- (pendiente)
+Expresamos nuestro agradecimiento a todas las personas e instituciones que han contribuido al desarrollo de este recurso.
+
+Agradecimientos especiales a:
+
+[Proveedores de datos]
+
+[Proveedores de soporte tecnológico]
+
+Asimismo, reconocemos las contribuciones financieras, científicas y técnicas del Ministerio para la Transformación Digital y de la Función Pública – Financiado por la UE – NextGenerationEU dentro del marco del proyecto Desarrollo de Modelos ALIA.
 
 ## ⚠️ Aviso legal
 Tenga en cuenta que los datos pueden contener sesgos u otras distorsiones no deseadas. Cuando terceros desplieguen sistemas o presten servicios basados en estos datos, o los utilicen directamente, serán responsables de mitigar los riesgos asociados y de garantizar el cumplimiento de la normativa aplicable, incluida aquella relacionada con el uso de la Inteligencia Artificial.
