@@ -37,8 +37,8 @@ Salida principal:
 ## 📚 Referencia
 - Por favor, cita este script usando la siguiente referencia:
 ```
-@misc{scraper_alia_amics_2025,
-  author       = {Garc\'ia Cerd\'a, Ra\'ul and Mu{\~n}oz Guillena, Rafael and Consuegra-Ayala, Juan Pablo},
+@misc{scraper_dictacts_gva_2025,
+  author       = {Garc\'ia Cerd\'a, Ra\'ul and Mu{\~n}oz Guillena, Rafael},
   title        = {DICTACTS_GVA scraper}, 
   year         = {2025},
   institution  = {Language and Information Systems Group (GPLSI) and Centro de Inteligencia Digital (CENID), University of Alicante (UA)},
